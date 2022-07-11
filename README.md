@@ -8,5 +8,4 @@ Here is the link where you can invite the bot:  https://discord.com/api/oauth2/a
 Donate link if ya want: paypal.me/LordDarthMaul  
 You can contact me here:   
   -Dc: Gyro#3511 
-  
   -Email: xfromtheshadowx@gmail.com
